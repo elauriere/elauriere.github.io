@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Estelle Laurière"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About me
+
 ======
 I am currently part of the European Doctoral School of Demography (EDSD).
+My research topic are child labour in low and middle income countries (LMIC).
 
