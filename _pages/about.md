@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-======
 I am currently part of the European Doctoral School of Demography (EDSD).
+
 My research topic are child labour in low and middle income countries (LMIC).
 
