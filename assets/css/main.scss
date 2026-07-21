@@ -39,10 +39,9 @@
 ;
 
 a {
-  color: #c9a3f0;
+  color: #ffffff;
+}
 
-  &:hover,
-  &:visited {
-    color: #c9a3f0;
-  }
+a:hover {
+  color: #c9a3f0;
 }
