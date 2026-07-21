@@ -3,7 +3,7 @@ title: "Child labour affects 138 million children worldwide—and far more count
 collection: publications
 category: manuscripts
 permalink: /publication/Population&Societies
-date: 2009-02-01
+date: 2026-02-01
 venue: 'Population & Societies'
 paperurl: 'https://elauriere.github.io/files/pop_soc_641_en.pdf'
 citation: 'Verhulst-Georgoulis, A., Laurière, E. and Chao, F. (2026). Child Labour Affects 138 Million Children Worldwide and Far More Counting Domestic Work. Population & Societies, 641(2), 1-4. https://doi.org/10.3917/popsoc.641.0001.'
