@@ -37,3 +37,12 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+a {
+  color: #c9a3f0;
+
+  &:hover,
+  &:visited {
+    color: #c9a3f0;
+  }
+}
