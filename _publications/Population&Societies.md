@@ -3,7 +3,6 @@ title: "Child labour affects 138 million children worldwide—and far more count
 collection: publications
 category: manuscripts
 permalink: /publication/Population&Societies
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-02-01
 venue: 'Population & Societies'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
