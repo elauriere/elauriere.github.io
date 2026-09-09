@@ -17,29 +17,22 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2026: Research Analyst, previously Research Intern (Summer 2025)
+  * French Institute for Demographic Studies (INED)
+  * Designed and programmed the INED Child Labour Database (CLD-INED); harmonised and analysed large-scale survey datasets (MICS and DHS), contributed to the interpretation and writing of research papers on global child labour estimates.
+  * Supervisor: Andrea Verhulst-Georgoulis
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Quantitative methods and mathematics:
+  * multivariate statistical and econometric analysis;
+  * causal inference methods (randomised controlled trials, difference-in-differences,
+  * regression discontinuity designs,
+  * and other quasi-experimental approaches)
+* Programming: R, Stata, Python
+* Research tools: LaTeX (Overleaf), KoboToolbox, XLSTAT, Zotero
+* Languages: French (native), English (C1)
 
 Publications
 ======
