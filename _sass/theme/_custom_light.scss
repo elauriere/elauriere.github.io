@@ -1,6 +1,7 @@
 /* ==========================================================================
-   MY THEME - LIGHT
-   ========================================================================== */
+  LIGHT THEME - Jaune-orange clair / liens prune
+  ========================================================================== */
+
 /* Color codes used for the theme */
 $primary-color              : #A45C8C;
 $dark-primary-color         : mix(#000, $primary-color, 40%);
@@ -16,8 +17,9 @@ $link                       : #7B3F61;
 $link-dark                  : mix(#000, $link, 25%);
 $link-light                 : mix(#fff, $link, 25%);
 $footer                     : #F5DFC0;
-$border                     : mix(#fff, #4a2e40, 75%);
-$border-light                : mix(#fff, #4a2e40, 60%);
+$border                     : mix(#fff, $text, 75%);
+$border-dark                : mix(#fff, $text, 60%);
+$border-light                : mix(#fff, $text, 85%);
 
 /* Color codes used for the site */
 $danger-color                : #e0596b;
@@ -27,17 +29,17 @@ $success-color               : #7fb87a;
 $warning-color               : #f0a23a;
 
 /* Other basic settings for the template */
-$border-radius              : 4px;
-$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
-$global-transition          : all 0.2s ease-in-out;
-$masthead-height            : 70px;
-$navicon-width              : 28px;
-$navicon-height             : 4px;
-$sidebar-link-max-width     : 250px;
-$sidebar-screen-min-width   : 1024px;
+$border-radius               : 4px;
+$box-shadow                  : 0 1px 1px rgba(0, 0, 0, 0.125);
+$global-transition           : all 0.2s ease-in-out;
+$masthead-height              : 70px;
+$navicon-width                : 28px;
+$navicon-height               : 4px;
+$sidebar-link-max-width       : 250px;
+$sidebar-screen-min-width     : 1024px;
 
-/* Dark theme for the site */
-html[data-theme="dark"] {
+/* Light theme for the site */
+html[data-theme="light"] {
   --global-base-color                 : #{$primary-color};
   --global-bg-color                   : #{$background};
   --global-footer-bg-color            : #{$footer};
@@ -55,10 +57,6 @@ html[data-theme="dark"] {
   --global-text-color-light           : #{$text-muted};
   --global-thead-color                : #{$background-lighter};
 
-}
-
-/* Footer styling for dark mode */
-html[data-theme="dark"] {
   footer {
     color: #{$text};
   }
