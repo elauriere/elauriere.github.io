@@ -27,9 +27,7 @@ Skills
 ======
 * Quantitative methods and mathematics:
   * multivariate statistical and econometric analysis;
-  * causal inference methods (randomised controlled trials, difference-in-differences,
-  * regression discontinuity designs,
-  * and other quasi-experimental approaches)
+  * causal inference methods (randomised controlled trials, difference-in-differences, regression discontinuity designs, and other quasi-experimental approaches)
 * Programming: R, Stata, Python
 * Research tools: LaTeX (Overleaf), KoboToolbox, XLSTAT, Zotero
 * Languages: French (native), English (C1)
